@@ -1,3 +1,9 @@
+Escola de musica MY JAM, metodologia unica. Aprendizado atraves de metodo gameficado, do basico ao avançado!  Cifras simples e musicas a qual voce se qualifica!
+
+https://github.com/danilordev/MyJam-front
+
+Trabalho de conclusão de curso!
+**********************************************************************************************************************************************
 ![myjam-banner](https://user-images.githubusercontent.com/108702071/203425580-4747d10e-65ca-4c99-8052-c0b9c639767a.png)
 
 <p align="left">
